@@ -1,0 +1,314 @@
+
+:root {
+	--web-view-ids: Web_1920__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1920__1 {
+	position:fixed;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	
+}
+#Ellipse_2_h {
+	opacity: 0.5;
+	fill: url(#Ellipse_2_h);
+}
+.Ellipse_2_h {
+	position: absolute;
+	overflow: visible;
+	width: 269px;
+	height: 269px;
+	left: 605px;
+	top: 406px;
+}
+#Rectangle_1 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 2px;
+	stroke-linejoin: bevel;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_1 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 1));
+	position: absolute;
+	overflow: visible;
+	width: 490px;
+	height: 672px;
+	left: 724px;
+	top: 213px;
+}
+#Login {
+	left: 902px;
+	top: 301px;
+	position: absolute;
+	overflow: visible;
+	width: 118px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 43px;
+	color: rgba(0,0,0,1);
+}
+#Rectangle_2_l {
+	opacity: 0.58;
+	fill: url(#Rectangle_2_l);
+}
+.Rectangle_2_l {
+	width: 4px;
+	height: 99px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,958.5,305.5) rotate(90deg);
+	transform-origin: center;
+}
+
+#Ellipse_1_n {
+	fill: url(#Ellipse_1_n);
+}
+.Ellipse_1_n {
+	position: absolute;
+	overflow: visible;
+	width: 48px;
+	height: 48px;
+	left: 936px;
+	top: 729px;
+}
+#Path_1_p {
+	fill: url(#Path_1_p);
+}
+.Path_1_p {
+	overflow: visible;
+	position: absolute;
+	width: 756px;
+	height: 229.333px;
+	left: 1196px;
+	top: -24px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_2_r {
+	fill: url(#Path_2_r);
+}
+.Path_2_r {
+	overflow: visible;
+	position: absolute;
+	width: 77.255px;
+	height: 385.333px;
+	left: 1842.745px;
+	top: 93.333px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_3_t {
+	opacity: 0.5;
+	fill: url(#Path_3_t);
+}
+.Path_3_t {
+	overflow: visible;
+	position: absolute;
+	width: 731.053px;
+	height: 364.737px;
+	left: -25.263px;
+	top: 740.526px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_1 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	width: 23px;
+	height: 3px;
+	left: 947.5px;
+	top: 753.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_2 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_2 {
+	overflow: visible;
+	position: absolute;
+	width: 13.018px;
+	height: 12.22px;
+	left: 960.5px;
+	top: 744.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_4 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(255,255,255,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_4 {
+	overflow: visible;
+	position: absolute;
+	width: 13.211px;
+	height: 14.027px;
+	left: 960.5px;
+	top: 752.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#download {
+	position: absolute;
+	width: 216px;
+	height: 40px;
+	left: 46px;
+	top: 51px;
+	overflow: visible;
+}
+#Line_3 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_3 {
+	overflow: visible;
+	position: absolute;
+	width: 305px;
+	height: 1px;
+	left: 807.5px;
+	top: 496.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_4 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_4 {
+	overflow: visible;
+	position: absolute;
+	width: 305px;
+	height: 1px;
+	left: 807.5px;
+	top: 612.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Email {
+	left: 809.5px;
+	top: 471.5px;
+	position: absolute;
+	overflow: visible;
+	width: 129px;
+	height: 22px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(112,112,112,1);
+}
+#Password {
+	left: 809.5px;
+	top: 586.5px;
+	position: absolute;
+	overflow: visible;
+	width: 129px;
+	height: 22px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(112,112,112,1);
+}
+#Ellipse_3_ {
+	opacity: 0.5;
+	fill: url(#Ellipse_3_);
+}
+.Ellipse_3_ {
+	position: absolute;
+	overflow: visible;
+	width: 264px;
+	height: 264px;
+	left: 1788px;
+	top: 948px;
+}
+#Ellipse_4_ {
+	opacity: 0.25;
+	fill: url(#Ellipse_4_);
+}
+.Ellipse_4_ {
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	height: 63px;
+	left: 629px;
+	top: 666px;
+}
+#Ellipse_5_ {
+	opacity: 0.5;
+	fill: url(#Ellipse_5_);
+}
+.Ellipse_5_ {
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	height: 63px;
+	left: 542px;
+	top: 579px;
+}
+#Ellipse_6_ {
+	opacity: 0.75;
+	fill: url(#Ellipse_6_);
+}
+.Ellipse_6_ {
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	height: 63px;
+	left: 542px;
+	top: 431px;
+}
+#Ellipse_7_bb {
+	fill: url(#Ellipse_7_bb);
+}
+.Ellipse_7_bb {
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	height: 63px;
+	left: 629px;
+	top: 343px;
+}
+
+  
